@@ -23,7 +23,7 @@ A lightweight Discord bot that brings WHOIS lookups straight into your server.
    ```bash
    git clone https://github.com/zvielkoren/whois-bot.git
    cd whois-bot
-````
+   ```
 
 2. Install dependencies:
 
@@ -35,7 +35,6 @@ A lightweight Discord bot that brings WHOIS lookups straight into your server.
    ```
    DISCORD_TOKEN=your_discord_bot_token_here
    USER_ID=your_user_id_here
-DOMAINS=eduil.org
    ```
 4. Run the bot:
 
