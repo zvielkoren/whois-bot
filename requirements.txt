@@ -1,0 +1,4 @@
+discord.py
+python-whois
+python-dotenv
+requests
